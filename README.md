@@ -32,10 +32,8 @@ It allows users to add tasks with a due date, delete tasks when completed, and s
 
 ```
 1. Clone the repository
-git clone https://github.com/your-username/todo-list.git
 
 2. Navigate to the project folder
-cd todo-list
 
 3. Open in browser
 
